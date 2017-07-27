@@ -5,7 +5,8 @@ Revolutionizing the DDR genre with this Python command-line game.
 
 NumPadRevolution is a spin-off of Dance Dance Revolution where the user taps the numbers that appears right before they hit the floor.
 
-*Requires Python 2.7
+Requires Python 2.7
+
 The npr.py script runs as-is in UNIX environments.
 
 
